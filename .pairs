@@ -1,0 +1,22 @@
+#irs - configuration for 'git pair'
+pairs:
+  # <initials>: <Firstname> <Lastname>[; <email-id>]
+  alex: Alex Ng
+  ken: Kian Kiong
+  kkok: Kai Kok
+  kkong: Kah Kong
+  kats: Yew Lee
+  raphael: Raphael Tan
+  samuel: Samuel Loh
+  sh: Sheng Hau
+  stewart: Stewart
+  vadi: Vadi K
+  ws: Wendy Soh
+  wj: Wei Jie  
+  yz: Yang Zi
+  yl: Yun Long
+email:
+  prefix:
+  domain: 
+  # no_solo_prefix: true
+#global: true
