@@ -12,11 +12,11 @@ pairs:
   stewart: Stewart
   vadi: Vadi K
   ws: Wendy Soh
-  wj: Wei Jie  
+  wj: Wei Jie
   yz: Yang Zi
   yl: Yun Long
 email:
   prefix:
-  domain: 
+  domain:
   # no_solo_prefix: true
-#global: true
+global: true
